@@ -7,6 +7,8 @@ public class SampleTestJava {
 		
 		int a=10;
 		
+		System.out.println("i am Dolle sabbbbb");
+		
 		System.out.println("u sai nagar sai anna Dolle ka Sab!!!!!!");
 	}
 }
